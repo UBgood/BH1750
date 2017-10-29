@@ -13,7 +13,7 @@
 
 */
 
-#ifndef BH1750_h
+
 #define BH1750_h
 
 #if (ARDUINO >= 100)
